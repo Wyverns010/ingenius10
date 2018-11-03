@@ -1,0 +1,35 @@
+1. figure out how to link metamask with the dapp
+
+2. The positive votes are genuine
+
+3. Run the whole setup 
+
+4. Win!!
+
+
+
+
+
+*Save the etherium account
+: banana undo dog jaguar fiscal flag broken travel rate bless heart earth
+
+
+
+#ifndef docms
+#define docms
+[#####..........]
+ |
+ V
+
+ chmod a+x ganache-1.2.2-x86_64.AppImage -- allow us to run ganache
+ ./ganache-1.2.2-x86_64.AppImage -- allows us to run ganache from the terminal
+ 
+
+
+->Start compiling the backend/blockchain part:
+ npm install -- to fix the dependency problem in the dapp
+
+ truffle build and truffle migrate 
+ 
+ npm run build , npm run dev
+ 
