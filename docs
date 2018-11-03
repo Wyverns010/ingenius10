@@ -29,7 +29,7 @@
 ->Start compiling the backend/blockchain part:
  npm install -- to fix the dependency problem in the dapp
 
- truffle build and truffle migrate 
+ truffle compile and truffle migrate 
  
  npm run build , npm run dev
  
