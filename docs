@@ -33,3 +33,13 @@
  
  npm run build , npm run dev
  
+ To solve the symlink error:
+
+NSTALL GLOBAL NPM PACKAGES
+npm config set unsafe-perm true
+
+CLEAN CACHE
+npm cache clean
+
+BYPASS SYMLINK ISSUES
+npm install --no-bin-links
