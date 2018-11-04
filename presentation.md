@@ -15,3 +15,7 @@ module bundler that helps turn your code into static assets you can deploy to th
 MetaMask -
 It is a bridge that allows you to visit the distributed web of tomorrow in your browser today.
 It allows you to run Ethereum dApps right in your browser without running a full Ethereum node.
+
+Ganache - 
+is a personal blockchain for Ethereum development you can use to deploy contracts, 
+develop your applications, and run tests.
