@@ -19,3 +19,6 @@ It allows you to run Ethereum dApps right in your browser without running a full
 Ganache - 
 is a personal blockchain for Ethereum development you can use to deploy contracts, 
 develop your applications, and run tests.
+
+
+Now that we've connected MetaMask to Ganache, you'll be taken to the accounts screen. Each account created by Ganache is given 100 ether. The first account should have less than the others because that account supplies the gas for smart contract deployment. Since you've deployed your smart contract to the network, this account paid for it.
